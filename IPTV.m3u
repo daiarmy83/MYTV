@@ -48,5 +48,6 @@ https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06.secureswiftcontent.com/rtmchannel/06-720.m3u8
 
-
-
+#EXTINF:-1 tvg-id="111" group-title="INDONESIA" tvg-logo="https://www.rctiplus.com/assets/image/elements/svg/logo-RCTI.svg",RCTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com
+https://d35d0ifx19oopq.cloudfront.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6.m3u8
